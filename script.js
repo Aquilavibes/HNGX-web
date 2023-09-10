@@ -1,6 +1,6 @@
 
         
-let utc = document.querySelector('[data-testid="currentDateAndTime"]');
+let utc = document.getElementById('timing');
 const today = new Date() 
 setInterval(() {
         updateTime(utc);
