@@ -26,6 +26,9 @@ h4 {
     border-radius: 13px;
     padding-top: 18px;
 }
+#zone {
+    color: white;
+}
 
 .flexx {
     display: block;
