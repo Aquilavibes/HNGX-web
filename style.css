@@ -50,6 +50,11 @@ h4 {
 
 .time {
     display: flex;
+    color: white;
+}
+
+span {
+    color: white;
 }
 
 #UTC-time-date {
