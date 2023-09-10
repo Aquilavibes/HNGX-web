@@ -1,11 +1,6 @@
 
         
 let utc = document.getElementById('timing');
-const today = new Date() 
-
-
-setInterval(function () {
-    utc = ++utc
-}, 1000);
+const today = new Date()
 utc.innerHTML = today.getTime();
         
